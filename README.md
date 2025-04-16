@@ -12,8 +12,7 @@ Improving my React skills and building awesome UIs!
 
  📫 Let's Connect
 - Portfolio: _Coming Soon!_
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
-- Email: your-email@example.com
+- Email: codewithdeveloper55@gmail.com
 
 ---
 
