@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Hafiz Usman 👋
 
-<!--
-**Hafiz-Usman55/Hafiz-Usman55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer who is passionate about building beautiful and responsive web interfaces.
 
-Here are some ideas to get you started:
+- 💻 Technologies & Tools
+- 🌐 HTML | CSS | JavaScript
+- ⚛️ React JS | Bootstrap | Tailwind CSS
+- 🧩 UI/UX Design | Responsive Design | Clean Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Working On
+Improving my React skills and building awesome UIs!
+
+ 📫 Let's Connect
+- Portfolio: _Coming Soon!_
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
+- Email: your-email@example.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
